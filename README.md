@@ -84,5 +84,7 @@ print("Summary:", summary)
 ```
 
 ---
+![Grok Performance](https://github.com/shanmati-suresh/Grok-summary/blob/main/Screenshot%202025-05-25%20215252.png?raw=true)
+
 
 
